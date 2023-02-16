@@ -16,7 +16,7 @@ export const CartDropdownContainer = styled.div`
   border: 1px solid black;
   background-color: white;
   top: 90px;
-  right: 40px;
+  right: 550px;
   z-index: 5;
 
   ${BaseButton}, ${GoogleSignInButton}, ${InvertedButton} {
