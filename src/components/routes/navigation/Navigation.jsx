@@ -1,7 +1,7 @@
 import { useContext } from "react";
 import { Outlet } from "react-router-dom";
 
-import { ReactComponent as CrwnLogo } from "../../../assets/crownGrey.svg";
+import { ReactComponent as CrwnLogo } from "../../../assets/crown.svg";
 
 import { UserContext } from "../../../contexts/UserContext";
 import { CartContext } from "../../../contexts/CartContext";
